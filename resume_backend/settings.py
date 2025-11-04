@@ -49,8 +49,9 @@ MIDDLEWARE = [
 # CORS
 CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOWED_ORIGINS = [
-    "https://resume-rho-fawn.vercel.app",
+    "https://resumateai.vercel.app",
 ]
+
 CORS_ALLOW_CREDENTIALS = True
 
 # Session config
